@@ -1,0 +1,1 @@
+Rename photo files using time from Exif and possible time_shift argument.
